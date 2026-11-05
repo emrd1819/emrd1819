@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:db2777&height=190&section=header&text=Ella%20Mae%20Dolon&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%E2%80%A2%20Databases%20%E2%80%A2%20Web%20%26%20Mobile%20Apps&descSize=16&descAlignY=60" alt="Ella Mae Dolon" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F472B6&center=true&vCenter=true&width=600&lines=BSIT+student+at+Bicol+University;Building+secure+web+%26+mobile+apps;Open+to+internship+opportunities" alt="Typing animation" />
+<img src="https://raw.githubusercontent.com/emrd1819/emrd1819/main/assets/banner.svg" alt="Ella Mae Dolon" width="100%" />
 
 <br/>
 
@@ -16,7 +14,7 @@
 
 ## ✨ Hi, I'm Ella Mae!
 
-I'm a fourth-year **BS Information Technology** student at **Bicol University Polangui Campus** 
+I'm a fourth-year **BS Information Technology** student at **Bicol University Polangui Campus** (President's Lister and Dean's Lister, current GPA 1.3).
 
 I build academic **web and mobile applications** with a focus on **software development, database management, and IT operations**, and I'm looking for an **internship** where I can work on real-world projects. Security and data privacy shape how I design: I care about protecting the people who use what I build.
 
