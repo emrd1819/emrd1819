@@ -16,7 +16,7 @@
 
 ## ✨ Hi, I'm Ella Mae!
 
-I'm a fourth-year **BS Information Technology** student at **Bicol University Polangui Campus** (President's Lister and Dean's Lister, current GPA 1.3).
+I'm a fourth-year **BS Information Technology** student at **Bicol University Polangui Campus** 
 
 I build academic **web and mobile applications** with a focus on **software development, database management, and IT operations**, and I'm looking for an **internship** where I can work on real-world projects. Security and data privacy shape how I design: I care about protecting the people who use what I build.
 
