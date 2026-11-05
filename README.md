@@ -10,10 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-dolonmaiah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dolonmaiah@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=emrd1819&label=Profile+views&color=db2777&style=for-the-badge)
 
-![Status](https://img.shields.io/badge/STATUS-SEEKING_INTERNSHIP-db2777?style=flat-square)
-![GPA](https://img.shields.io/badge/GPA-1.3-1e1b4b?style=flat-square)
-![Honors](https://img.shields.io/badge/PRESIDENT'S_%26_DEAN'S_LISTER-7c3aed?style=flat-square)
-
 </div>
 
 ---
